@@ -1,0 +1,22 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAwPwPAAAAAABsd/cAzMwAwHdsd88WYQxsd/Z3bBcRxnx3ZncsFxHBfHdmd3wSEcF8d/ZnfHcRwXx3bMd3ZxbBbHd3d/dsZsHAd3d3xs9mxwBsd2fPZmbGAMD8/3xnZsYAAAAAfGdmzAAAAAB8x8wMAAAAAMDHAAAAAAAAAMwAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Snek"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage"
+    },
+    "image3": {
+        "data": "hwQQABAAAAAAwPwPAAAAAABsd/cAzMwAwHdsd88WYQxsd/Z3bBcRxnx3ZncsFxHBfHdmd3wSEcF8d/ZnfHcRwXx3bMd3ZxbBbHd3d/dsZsHAd3d3xs9mxwBsd2fPZmbGAMD8/3xnZsYAAAAAfGdmzAAAAAB8x8wMAAAAAMDHAAAAAAAAAMwAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Snek0"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
