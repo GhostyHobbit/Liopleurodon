@@ -3,25 +3,6 @@ namespace myImages {
 
     helpers._registerFactory("image", function(name: string) {
         switch(helpers.stringTrim(name)) {
-            case "image1":
-            case "Snek":return img`
-. . . c c c c c c . . . . . . . 
-. . c 6 7 7 7 7 6 c . . . . . . 
-. c 7 7 7 7 7 7 7 7 c . . . . . 
-c 6 7 7 7 7 7 7 7 7 6 c . . . . 
-c 7 c 6 6 6 6 c 7 7 7 c . . . . 
-f 7 6 f 6 6 f 6 7 7 7 f . . . . 
-f 7 7 7 7 7 7 7 7 7 7 f . . . . 
-. f 7 7 7 7 6 c 7 7 6 f . . . . 
-. . f c c c c 7 7 6 f c c c . . 
-. . c 6 2 7 7 7 f c c 7 7 7 c . 
-. c 6 7 7 2 7 7 c f 6 7 7 7 7 c 
-. c 1 1 1 1 7 6 6 c 6 6 6 c c c 
-. c 1 1 1 1 1 6 6 6 6 6 6 c . . 
-. c 6 1 1 1 1 1 6 6 6 6 6 c . . 
-. . c 6 1 1 1 1 1 7 6 6 c c . . 
-. . . c c c c c c c c c c . . . 
-`;
             case "image2":
             case "myImage":return img`
 . . . . . . . . . . . . . . . . 
@@ -110,6 +91,25 @@ cc66666666664c66e4e44e44e44feeee66c46666666666cc
 ....644444444c66f4e44e44e44e44ee66c444444446....
 .....64eee444c66f4e44e44e44e44ee66c444eee46.....
 ......6ccc666c66e4e44e44e44e44ee66c666ccc6......
+`;
+            case "image1":
+            case "Snek":return img`
+. . . . . . . . . . b 5 b . . . 
+. . . . . . . . . b 5 b . . . . 
+. . . . . . b b b b b b . . . . 
+. . . . . b b 5 5 5 5 5 b . . . 
+. . . . b b 5 d 1 f 5 d 4 c . . 
+. . . . b 5 5 1 f f d d 4 4 4 b 
+. . . . b 5 5 d f b 4 4 4 4 b . 
+. . . b d 5 5 5 5 4 4 4 4 b . . 
+. b b d d d 5 5 5 5 5 5 5 b . . 
+b d d d b b b 5 5 5 5 5 5 5 b . 
+c d d b 5 5 d c 5 5 5 5 5 5 b . 
+c b b d 5 d c d 5 5 5 5 5 5 b . 
+c b 5 5 b c d d 5 5 5 5 5 5 b . 
+b b c c c d d d 5 5 5 5 5 d b . 
+. . . . c c d d d 5 5 5 b b . . 
+. . . . . . c c c c c b b . . . 
 `;
         }
         return null;
