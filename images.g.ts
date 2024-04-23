@@ -61,23 +61,80 @@ b b c c c d d d 5 5 5 5 5 d b .
 . . . . . . c c c c c b b . . . 
 `;
             case "image4":
-            case "Crab":return img`
+            case "CreepyCrab":return img`
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . c c . . . 
-. . . . . . . c c c c 6 3 c . . 
-. . . . . . c 6 3 3 3 3 6 c . . 
-. . c c . c 6 c c 3 3 3 3 3 c . 
-. c 5 5 c 6 c 5 5 c 3 3 3 3 3 c 
-. f f 5 c 6 c 5 f f 6 3 3 3 c c 
-. f f 5 3 c 3 5 f f 6 6 6 6 c c 
-. . b 5 5 3 5 5 c 3 3 3 3 3 3 c 
-. c c 5 5 5 5 5 b c c 3 3 3 3 c 
-c 5 5 4 5 5 5 4 b 5 5 c 3 3 c . 
-b 5 4 b 4 4 4 4 b b 5 c b b . . 
-c 5 5 5 c 4 c 5 5 5 c 4 c 5 c . 
-c 5 5 5 5 c 5 5 5 5 c 4 c 5 c . 
+. . . . . . . c c c c 2 4 c . . 
+. . . . . . c 2 4 4 4 4 2 c . . 
+. . c c . c 2 c c 4 4 4 4 4 c . 
+. c d d c 2 c d d c 4 4 4 4 4 c 
+. f f d c 2 c d f f 2 4 4 4 c c 
+. 2 f d 3 c 3 d 2 f 2 2 2 2 c c 
+. . b d d 3 d d c 4 4 4 4 4 4 c 
+. c c d d d d d b c c 4 4 4 4 c 
+c d d 3 d d d 3 b d d c 4 4 c . 
+b d 3 b 3 3 3 3 b b d c b b . . 
+c d d d c 3 c d d d c 3 c d c . 
+c d d d d c d d d d c 3 c d c . 
 . c c c c c c c c c . . c c c . 
+`;
+            case "image5":
+            case "myImage0":return img`
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . c c . . 
+. . . . . . . c c c c c 2 4 c . 
+. . . . . . c 2 2 4 4 4 2 2 c . 
+. . . . . c 2 2 2 4 4 4 4 4 4 c 
+. . . . c 2 2 2 2 4 4 4 4 4 4 c 
+. . c c c 2 2 2 2 2 4 4 4 4 4 c 
+. c 4 4 4 c 2 2 2 2 2 4 4 4 4 c 
+c 4 c c c 4 c 2 2 2 2 2 4 4 c c 
+c 2 c c c c 4 c 2 2 2 2 2 2 c c 
+c 2 c c c c 2 2 c 2 2 4 4 4 4 c 
+. c 2 c c c c 2 c 2 4 4 4 4 2 c 
+. . c 2 c c c c c 2 4 4 4 2 c . 
+. . . c c c c c c c c c c c . . 
+`;
+            case "image7":
+            case "Player Character":return img`
+. . . . . . . . . . . . . 
+. . f f f f f f f f . . . 
+. f f f f f f c f f f . . 
+. f f f f f c f f f f . . 
+. f f c f f f f f f f . . 
+. c c f f f e e f f c . . 
+. f f f f e e f f c f . . 
+. f f b f e e f b f f . . 
+. f 4 1 f 4 4 f 1 4 f . . 
+. f f 4 4 4 4 4 4 f f . . 
+. f f f e e e e f f f . . 
+f e f b d d d d f f e f . 
+e 4 f d d d d d f f 4 e . 
+e e f b b b b b b f e e . 
+. . . d d d d d d . . . . 
+. . . b b d d b b . . . . 
+`;
+            case "image8":
+            case "myImage1":return img`
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
 `;
         }
         return null;

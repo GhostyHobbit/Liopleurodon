@@ -15,9 +15,24 @@
         "displayName": "Snek"
     },
     "image4": {
-        "data": "hwQQABAAAAAAAAAAAMDLDAAAAPwPXFXFAADA9b9cVMUAAMBVVUVbxQAAAMxTVcTFAADAZjxVRMwAAGzMU1XExQDAxlVVRVTFAMDD9c+7W8UAwDP8P1xbxQDAM2M2XMUMAGwzMzbDTAQAPDYzNjPLzADAPDM2M1vFAADAwzzDwMwAAADMzAwAAA==",
+        "data": "hwQQABAAAAAAAAAAAMDLDAAAAPwC3N3NAADA/b/c080AAMDd3T3bzQAAAMzT3cPNAADAIjzdM8wAACzM093DzQDAwt3dPdPNAMDE/cK7280AwET8T9zbzQDARCRC3M0MACxERELEPAMATEJEQkTLzADATERCRNvNAADAxEzEwMwAAADMzAwAAA==",
         "mimeType": "image/x-mkcd-f4",
-        "displayName": "Crab"
+        "displayName": "CreepyCrab"
+    },
+    "image5": {
+        "data": "hwQQABAAAAAAAAAAAMwMAAAAAADAJMIAAAAAAEzMLAwAAAAATMzMwgAAAMBMzMzMAAAALMLEzMwAAMAiIkzCzAAALCIiwiLMAAAsIiIizMwAAExEIiIiwgAATEQkIkLEAABMREQiRMQAwCJERCRExADAJEREJETCAADMRETMJAwAAADMzMzMAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage0"
+    },
+    "image7": {
+        "data": "hwQNABAAAAAAAAAAAPDuAAD/z///7+QA8P/P//T//wDw//y/Qb+9vfD///9P3r298P//7kTevd3wz+/uRN693fD87/9P3r298P//v0H/v73w///89P//AAD/z///7+QAAAAAAADw7gAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Player Character"
+    },
+    "image8": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage1"
     },
     "*": {
         "mimeType": "image/x-mkcd-f4",
