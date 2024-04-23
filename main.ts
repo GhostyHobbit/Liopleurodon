@@ -10,5 +10,22 @@ let mySprite = sprites.create(assets.image`Snek`, SpriteKind.Player)
 controller.moveSprite(mySprite, 100, 100)
 scene.cameraFollowSprite(mySprite)
 tiles.placeOnTile(mySprite, tiles.getTileLocation(5, 7))
-let House = sprites.create(assets.image`houseRed`, SpriteKind.Object)
+let House = sprites.create(img`
+    . . . . . . . . . . . . . . . . 
+    . . . . . . . . . . . . . . . . 
+    . . . . . . . . . . . . . . . . 
+    . . . . . . . . . . . . . . . . 
+    . . . . . . . . . . . . . . . . 
+    . . . . . . . . . . . . . . . . 
+    . . . . . . . . . . . . . . . . 
+    . . . . . . . . . . . . . . . . 
+    . . . . . . . . . . . . . . . . 
+    . . . . . . . . . . . . . . . . 
+    . . . . . . . . . . . . . . . . 
+    . . . . . . . . . . . . . . . . 
+    . . . . . . . . . . . . . . . . 
+    . . . . . . . . . . . . . . . . 
+    . . . . . . . . . . . . . . . . 
+    . . . . . . . . . . . . . . . . 
+    `, SpriteKind.Object)
 tiles.placeOnTile(House, tiles.getTileLocation(5, 5))
